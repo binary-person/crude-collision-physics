@@ -1,0 +1,11 @@
+.control-container {
+    margin-bottom: 50px;
+}
+
+.control-container p {
+    margin: 0;
+}
+
+.control-container input {
+    width: 500px;
+}

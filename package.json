@@ -1,0 +1,17 @@
+{
+  "name": "physics-collisions",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host 100.71.6.36",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "vite": "^2.9.9"
+  },
+  "dependencies": {
+    "js-quadtree": "^3.3.6"
+  }
+}
